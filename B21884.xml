@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles and acts of Parliament taken out of the records of the tower shewing how traytors have seduced the King by wicked counsell to take him from his Parliament and to raise warre against them ... : with the Earle</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21884</idno><idno type="EEBO-CITATION">12281486</idno>
+  <idno type="VID">197715</idno>
+  <idno type="EEBO-PROQUEST">2240962086</idno>
+  
+            <idno type="STC">Wing E1229</idno>
+            <idno type="OCLC">12281486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E119, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles and acts of Parliament taken out of the records of the tower shewing how traytors have seduced the King by wicked counsell to take him from his Parliament and to raise warre against them ... : with the Earle</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Theophilus Bourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197715:1"/>
+            <p> ARTICLES AND Acts of Parliament: Taken out of the Records of the Tower, shewing how Traytors have sedu<g ref="char:EOLhyphen"/>ced the King by wicked Counsell to take him from his Parliament, and to raise warre against them.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the Lords and Commons in Parliament, that these Articles and Acts be forthwith Printed and Published.</hi>
+                        </p>
+                        <p>H. Elsyng Cler. Parl. D. Com.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>With the Earle of <hi>Warwickes</hi> taking of great store of Armes and Ammunition, with Money and Plate in foure Coale-shipps which came from the west coun<g ref="char:EOLhyphen"/>tries towards Newcastle to ayde his Majesty against the Parliament.</p>
+            <p>And also a great Fight betweene the Earle of <hi>Warwicke</hi> and a great Fleet of Spanyards at Sea, which were comming against <hi>England,</hi> and how they were taken and dispersed by the said Earle.</p>
+            <p>And likewise of a French man of Warre taking of a Shippe with Powder and Match, that was comming out of <hi>Holland</hi> to relieve the Protestants in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Theophilus Bourne,</hi> 1642.</p>
+            <pb facs="tcp:197715:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:197715:2"/>
+            <head>Articles and Acts of Parliament, taken out of the Records of the Tower.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>TEM</hi> by the said encroachment, the aforesaid <hi>Alexande</hi> Arch-bishop of <hi>Yorke, Robert de Vere</hi> Duke of Iroland, <hi>Michael de la Poole</hi> Earle of Suffolke <hi>Robert Tres<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lean</hi> false Justice and <hi>Nicholas Brembre</hi> false Knight of London, have done that, whereas a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the last Parlia<g ref="char:EOLhyphen"/>ment, all the Lords and other wise men and Commons there assembled, seeing the lesse of the King &amp; his Kingdome imminent, as well for the perils and mischiefes aforesaid, as that the King was de<g ref="char:EOLhyphen"/>parted from the Counsell of the Kingdome, and harkened wholly to the Counsell of the aforesaid malefactors and Traytors as also becasue the French King with his Royall power was nipt upon the Sea ready to have c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me into England to destroy the Kingdome, and the English tongue, and that no ordinance nor governement was then established for the safe<g ref="char:EOLhyphen"/>ty of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e King nor of the Kingdome, they knew no other remedy, there<g ref="char:EOLhyphen"/>upon, but remonstrated unto the King at full, how that he was ill govrerned counselled, &amp; carred away by the aforesaid Traytors &amp; Malefactos decla<g ref="char:EOLhyphen"/>ring unto him their wicked condi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, and required him most humbly as his loyall subjects for the safety of him, and of his whole Kingdome, and for the avoyding of the perills aforesaid to let go and put from him the aforesaid malefactors and Traytors out of his presence and company, and that he would not doe hereafter according to their wicked Counsells but that he would follow the wise, loyall and discreet men of this Kingbome and thereupon the said Traytors and Malefactors, seeing this good and honorable opinion of the Parliament, and to disturbe their good purposes therein, by their false Counsell caused our Lord the King to command the Major of London to cause a great power of the people of London to bee
+<pb n="2" facs="tcp:197715:3"/> suddenly levied, for to kill and put to death all the said Lords and Com<g ref="char:EOLhyphen"/>mons except only such as were of their party, at the doing of which wick<g ref="char:EOLhyphen"/>ed act, the said great Malefactors, &amp; Traytors should have been parties &amp; present to the destruction of the King and all the Realme.</p>
+            <p>Article 29. <hi>Item,</hi> For to accomplish this high treason aforesaid by their counsell, the aforsaid <hi>Alexander</hi> Arch-bishop of Yorke. <hi>Robert Veer</hi> Duke of Ireland and <hi>Michael de la pole</hi> Earle of Suffolke, caused the King to send his Letrers of Credence to his adversary, the <hi>French King:</hi> some by one <hi>Nicolas Solthwell,</hi> Groome of his Chamber, and some by other persons of meane fortune, as well Aliens as Denizenes, requiring and praying the said French King, that with his power and Councell he would be aiding and assisting to our Lord the King to destroy and to put to death the said Lords▪ and other English, which the King then held his enemies and traitors, as before, to the great disquiet and trouble of his whole kingdom.</p>
+            <p>Article 30. <hi>Item,</hi> The aforesaid <hi>Alexander</hi> Arch-bishop of York, <hi>Ro<g ref="char:EOLhyphen"/>bert de Veere</hi> Duke of Ireland <hi>Michael de la poole</hi> Earle of Suffolke, enctoaching unto themselves Royall Power caused the, King to pro<g ref="char:EOLhyphen"/>mise unto the French King, and his power, for to accomplish that high treason, prodition, and murder, to give and surender unto the said French King, the Towne and Castle of Calis, and all other Castles and Forts in the March of Picardy and Artoys, the Castles and Townes of Chirlurge and of Brerte to the great dishonour, trouble and damage of the King and of his Kingdome.</p>
+            <p>Article 37. <hi>Item,</hi> the aforesaid <hi>Alexander</hi> Arch-B. of Yorke <hi>Robert de Vere</hi> Duke of Ireland, <hi>Michaell de la poole</hi> Earle of Suffolke. <hi>Robert Trelsillian</hi> false Iustice, and <hi>Nicolas Brembre,</hi> false Knight of London, malefactors and Trators, during the time of the said protection, to the overthrowing of the said appeale, falsely Counselled, and caused the King to commend by his letters, divers Knights, Esquires his sheriffs, and other his officers of bivers Counties, to raise &amp; assemble all the power that they could to come with the said Duk of Ireland, against the aforesaid, other. Lords Appellants, suddenly to make war against them &amp; distroy them.</p>
+            <p>Article 38. <hi>Item,</hi> During the time of the said Protection, the afore<g ref="char:EOLhyphen"/>said <hi>Robert de veere</hi> Duke of <hi>Ireland▪ Michael de la poole,</hi> Earle of <hi>Suf<g ref="char:EOLhyphen"/>folke, Alexander</hi> Archbishop of <hi>Yorke, Nicholas Brembre</hi> false Knight of London, caused the King by his Letters to signifie to the said Duke of <hi>Ireland,</hi> how that he and others were appealed of Treason by the said
+<pb n="3" facs="tcp:197715:3"/>
+               <hi>Thomas</hi> Duke of <hi>Gloucester,</hi> Constable of England, <hi>Richard</hi> Earle of <hi>Arundell</hi> and <hi>Surrey,</hi> and <hi>Thomas</hi> Earle of <hi>VVarwicke,</hi> and how that the King had thereupon given day to the said Parties, with their Men, Goods, and Chattells, into his speciall Protection, and besides, it was contained in the said Letters of the King, that if the said Duke had suffi<g ref="char:EOLhyphen"/>cient power, he should not faile to come on with all his aforesaid Power; and to come to the King, and soone after they procured the King, to write unto the said Duke of <hi>Ireland,</hi> that he should take the field, with all his power which he could gather together, &amp; that the King would meete him with all his power, and that the King would with him put in hazard his Royall person; and the King was in great danger himselfe and his whole Kingdome, if he were not helped and succoured by the said Duke of Ire<g ref="char:EOLhyphen"/>land, and that the Duke of Ireland should make knowne this unto all the men that were assembled unto him; and that the King would pay all the wages, and charges of the said Duke of Ireland, and of all the men assem<g ref="char:EOLhyphen"/>bled by him, by vertue of which Letters, and the malicious and trayterous excitations aswell of the said Duke, as of his Adherents and all the other malefactors and traytors, the said Duke of Ireland assembled a great num<g ref="char:EOLhyphen"/>ber of men at armes and Archers, as well the Counties of Lancaster, Che<g ref="char:EOLhyphen"/>ster, and Wales, as of other places of the Kingdome, to destroy, and to put to death the aforesaid Lords, and all others which were assenting to the making of the said Ordinance, Statute &amp; Commission, unto the destructi<g ref="char:EOLhyphen"/>on of the King and his Kingdome.</p>
+            <p>Article 30. <hi>Item</hi> the said <hi>Robert de veere</hi> Duke of Ireland, false trayor to the King and Kingdom, assembled a great power of men at Armes, and Archers of the Counties of Lancaster, Chester, and Wales; and of divers other places, to the intent to have traiterously destroyed so far as in him lay, the Lord <hi>Thomas</hi> Duke of Glocester Constable of England, <hi>Henry</hi> Earle of Darby, <hi>Richard</hi> Earle of Arundell and Surrey, <hi>Thomas</hi> Earle of Warwicke, and <hi>Thomas</hi> Earle Marshall, and other Loyall Sub<g ref="char:EOLhyphen"/>jects of our Lord the King, as well to the destruction and anni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of our Lord the King, and of his whole kingdome; and so heride with great power and force of men at Armes, and Archers from the County of Chester through the Kingdome, till he came neere to a certaine place, which place is called <hi>Rotcotbriege,</hi> neere to <hi>Cotswold,</hi> encroaching to himselfe Royall Power, caused the banner of the King to be displayed in his company, contrary to the dignity of the King and of his Crowne, at which time the said Duke of Ireland and his Company, were by the grace of God, disappointed of their wicked purpose.</p>
+            <pb n="4" facs="tcp:197715:4"/>
+            <p>
+               <hi>Memorandum.</hi> That the same Roll containing the petition of the afore<g ref="char:EOLhyphen"/>said appeal distinguished by Articles as above by quotation is marked, was delivered in the present Parliament, by the aforesaid Duke, and Earle appelants; and <hi>Memorand.</hi> that afterwards in the same Parliament, the 1. 2. 11. 15. 17. Articles aforesaid are declared, and adiudged trea<g ref="char:EOLhyphen"/>son, and every one one of them is declared and adjudged treason, And that which is contained in the 22. Article of the aforesaid Articles con<g ref="char:EOLhyphen"/>cerning the levying of men, to make war and destroy the Lords &amp; Lieges of the King is likewise declared and adiudged treason. And that the 28. 29. 30. 31. 22. 37. 38. 39. Articles aforesaid are also declared and adiudged Treason, and every one of them is declared and adjudged treason▪ as is sett downe in the Record and the precesse annexed and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ixed to this Roll on the back side of the said Roll by these words <hi>qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lle petition in presence du Roynre dit Sr. &amp;c.</hi>
+            </p>
+            <p>This judgment was confirmed by Act of Parliament, 11. R 2 ca 3. 1 H 4. ca 3. and 4. of the old printed statutes and the said statute 1 H 4. repeales and makes void the Parliament of 21. R. 2. and all the proceed<g ref="char:EOLhyphen"/>ings thereof, in which forced and tumultuary Parliament, the Acts of the Parliament of 11. R. 2. had been reversed.</p>
+         </div>
+         <div type="text">
+            <head>Of the Earle of VVarwicks ta<g ref="char:EOLhyphen"/>king of great store of Armes and Ammunition.</head>
+            <p>THe Earle of <hi>Worwicke</hi> having received letters from the Parliament, informing him that they have received certaine information that there are preparations made, both in <hi>France</hi> and <hi>Spains</hi> for warre, and that great forces are raised in those Countries, which as it is conceived upon just cause are intended either to releive the Rebels in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or to assist the King in His War against the Parliament. The said Earle repaired towards <hi>Callis</hi> where it is reported that a great Army are raised, and lye in a readinesse for some great designe intended by the <hi>French</hi> King, which the said Earle hopes to discover, that thereby the better meanes might be used to deseate their wicked purposes: And al<g ref="char:EOLhyphen"/>though▪
+<pb n="5" facs="tcp:197715:4"/> we have not heard the certainty of that discovery, yet this we are sure of, that his Lordship hath done very lately speciall service for the King and Parliament, for on Saterday the 17. of <hi>September,</hi> foure shippes like unto Cole shippes were discerned by the Earle of <hi>Warwicke,</hi> sayling towards Newcastle whereupon his Lodship sent out two good shippes to discover whence they were, and meeting with them they strooke sayle and pretended that they were going to Newcastle for Coales which they intended to bring to the Cittie of <hi>London,</hi> but in re<g ref="char:EOLhyphen"/>gard they were farre from the coasts and had much varied from the usu<g ref="char:EOLhyphen"/>all compasse, which our Marryners use to passe in upon that service, the said Earles shippes rested not sati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied with their pretended answers, but boar<g ref="char:EOLhyphen"/>ded the said ships knowing that it was both a safe and sure way to search what was therein, and certainely to know what they were, upon which se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch they found in the said shipps great store of Armes and Amu<g ref="char:EOLhyphen"/>nition, with about foure hundred Lasts of powder, and a great quantity of Plate and money, but very few passengers, none being in the shippes but the Officers and Saylors, which refused to shew their Commission or to make knowne from whence they came; whereupon they were stayed and brought to the Earle of <hi>Warwick</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be further examined and there to remaine untill he shal receive furnh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r directions from the Parliament how to disp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se of them, for it is supposed that it was such prouision as have beene raised by the Papists and other of the maligna at party in the West Countrey, and were going to Newc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le to ayde the King against the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>It appeares that the Earle of <hi>VVarwicke</hi> is very vigilant and watch<g ref="char:EOLhyphen"/>full to keepe out all forraine enemies, from invading this Kingdome, for about the same time that the before mentioned foure shipps were taken by his Lordshippe, there was discovered uppon the Coast of England nere unto <hi>Plymouth</hi> a great Navy upon the Sea, but it could not be dis<g ref="char:EOLhyphen"/>erned what they were, and the next day being Thursday in the evening a great battell was heard to be fought upon the Sea, and therefore we conceive that it was the Spanish fleete that lay at Dunkirke▪ or the French which were comeing either to aide his Majestie against the Parliament, or to assist the Rebells in <hi>Ireland,</hi> but is most probable that they came a gainst Eagland because it is reported that they have sent store of powder and Ammunition to <hi>Ireland</hi> already which the Protestants there want by reason of the taking of a shipp. l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly laden with pouder and match by a
+<pb n="6" facs="tcp:197715:5"/> French man of warr that was comeing out of <hi>Holland</hi> into <hi>Ireland</hi> to supply the want of those things amongst the Protestants there, but I shall say noe more of that for I doubt not but the Parliament will cause the French King to make restitution thereof, and it is conceived that the Earle <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Warrwicke hath either sunke and taken a great part of this fleete and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent the rest home againe with such an overthrow that they will be glad to stay in harbour all this winter, for the fight continued about 3. or 4. houres, but the successe thereof is not as yet certainly knowne yet we doubt not but the event will every way answere our expectations.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
